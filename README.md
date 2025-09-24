@@ -4,6 +4,8 @@ The game exposes a global object called **`GameAPI`**.
 This is the only interface you need to control the player, move the star, or check the game state.
 All commands return **Promises**, so you can safely chain them (or `await` them).
 
+Look at the `demo.js` file for a working example. To see it run, just refresh the page.
+
 ---
 
 ## Setup
